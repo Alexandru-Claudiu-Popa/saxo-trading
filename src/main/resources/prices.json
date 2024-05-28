@@ -1,0 +1,32 @@
+[
+  {
+    "symbol": "MSFT",
+    "buy": 430.16,
+    "sell": 432.25
+  },
+  {
+    "symbol": "MSFT",
+    "buy": 189.98,
+    "sell": 185.47
+  },
+  {
+    "symbol": "NVDA",
+    "buy": 1064.69,
+    "sell": 1059.77
+  },
+  {
+    "symbol": "AMZN",
+    "buy": 180.75,
+    "sell": 178.32
+  },
+  {
+    "symbol": "META",
+    "buy": 478.22,
+    "sell": 175.89
+  },
+  {
+    "symbol": "GOOG",
+    "buy": 176.33,
+    "sell": 173.68
+  }
+]
